@@ -1,6 +1,5 @@
 <h1>
     This repository's purpose is to learn how to setup a new git repo
-    Making changes to the file
 </h1>
 
 <ol>
